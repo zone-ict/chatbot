@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "QnA_Hackathon",
+  "recognizers": {
+    "en-us": "Hackathon.en-us.qna",
+    "": "Hackathon.en-us.qna"
+  }
+}
